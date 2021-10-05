@@ -3,6 +3,11 @@
       "Id":17,
       "RazaoSocial":"AMAZONGAS",
       "CNPJ":"123456789"
+    },
+    {
+      "Id":1,
+      "RazaoSocial":"CONCORRENTE",
+      "CNPJ":"987654321"
     }
   ]
 }
