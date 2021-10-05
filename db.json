@@ -1,8 +1,8 @@
-{"cliente":
-[
-  {
-    "Id":17,
-    "RazaoSocial":"AMAZONGAS",
-    "CNPJ":"123456789"
-  }
-]}
+{"cliente":[
+    {
+      "Id":17,
+      "RazaoSocial":"AMAZONGAS",
+      "CNPJ":"123456789"
+    }
+  ]
+}
