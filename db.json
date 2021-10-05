@@ -8,6 +8,11 @@
       "Id":1,
       "RazaoSocial":"CONCORRENTE",
       "CNPJ":"987654321"
+    },
+    {
+      "Id":2,
+      "RazaoSocial":"TVPAGA",
+      "CNPJ":"7738834"
     }
   ]
 }
